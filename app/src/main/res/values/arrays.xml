@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="볼룜">
+        <item>느림(0.5배속)</item>
+        <item>보통(1배속)</item>
+        <item>빠름(2배속)</item>
+    </string-array>
+
+</resources>
